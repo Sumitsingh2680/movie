@@ -24,10 +24,48 @@
     "south": [
         {
             "title": "Munjya",
+            "description": "South Movie 1 horror",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWbO50nbduK6IjgHvyeH-0jWf87zQ_ICD_W3ur4KE4FPG2AIEIJthfolU&s=10",
+            "videoUrl": "https://archive.org/download/munjya-hindi-2024/Munjya%20%28Hindi%29%202024.mp4  "
+        },
+          {
+            "title": "pushpa",
+            "description": "South Movie 2 action",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_-mu5u6QfE9thByZqIs7grqS2FRIV_MJAK-Z2QdAzbOhYNIE8pgwnB_O&s=10",
+            "videoUrl": "https://ia600105.us.archive.org/30/items/pushpa-the-rise-part-1-hindi-2021/Pushpa%20The%20Rise%20-%20Part%201%20%28Hindi%29%202021.mp4"
+        },
+        {
+            "title": "RRR",
+            "description": "South Movie 3 FREEDOM FIGHTERS ACTION",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQR7vbdYgRyq5RDRrts5I4t2gWF5QLeqoepGJAZo54LKN9Lyyq_fLYujhg&s=10",
+            "videoUrl": "https://ia600608.us.archive.org/27/items/rrr-2022_202501/RRR%202022.mp4"
+        },
+        {
+            "title": "Munjya",
+            "description": "South Movie 1 description",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWbO50nbduK6IjgHvyeH-0jWf87zQ_ICD_W3ur4KE4FPG2AIEIJthfolU&s=10",
+            "videoUrl": "https://archive.org/download/munjya-hindi-2024/Munjya%20%28Hindi%29%202024.mp4  "
+        },
+        {
+            "title": "Munjya",
+            "description": "South Movie 1 description",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWbO50nbduK6IjgHvyeH-0jWf87zQ_ICD_W3ur4KE4FPG2AIEIJthfolU&s=10",
+            "videoUrl": "https://archive.org/download/munjya-hindi-2024/Munjya%20%28Hindi%29%202024.mp4  "
+        },
+        
+        {
+            "title": "Munjya",
+            "description": "South Movie 1 description",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWbO50nbduK6IjgHvyeH-0jWf87zQ_ICD_W3ur4KE4FPG2AIEIJthfolU&s=10",
+            "videoUrl": "https://archive.org/download/munjya-hindi-2024/Munjya%20%28Hindi%29%202024.mp4  "
+        },
+        {
+            "title": "Munjya",
             "description": "South Movie 1 description",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWbO50nbduK6IjgHvyeH-0jWf87zQ_ICD_W3ur4KE4FPG2AIEIJthfolU&s=10",
             "videoUrl": "https://archive.org/download/munjya-hindi-2024/Munjya%20%28Hindi%29%202024.mp4  "
         }
+        
     ],
     "hollywood": [
         {
