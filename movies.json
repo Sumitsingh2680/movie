@@ -15,11 +15,30 @@
     ],
     "bollywood": [
         {
-            "title": "Bollywood Movie 1",
-            "description": "Bollywood Movie 1 description",
-            "image": "https://image_link3.jpg",
-            "videoUrl": "https://video_link3.mp4"
+            "title": "Stree 2",
+            "description": "Bollywood Movie 1 Horror comedy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivzz74Cxiltke0mIra4IM4Jp-HkrmAomGW5TS3x-BC5i1wqPiM_25x7k&s=10",
+            "videoUrl": "https://ia902201.us.archive.org/19/items/stree-2-hindi-2024/Stree%202%20%28Hindi%29%202024.ia.mp4"
+        },
+        {
+            "title": "Stree 2",
+            "description": "Bollywood Movie 1 Horror comedy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivzz74Cxiltke0mIra4IM4Jp-HkrmAomGW5TS3x-BC5i1wqPiM_25x7k&s=10",
+            "videoUrl": "https://ia902201.us.archive.org/19/items/stree-2-hindi-2024/Stree%202%20%28Hindi%29%202024.ia.mp4"
+        },
+        {
+            "title": "Stree 2",
+            "description": "Bollywood Movie 1 Horror comedy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivzz74Cxiltke0mIra4IM4Jp-HkrmAomGW5TS3x-BC5i1wqPiM_25x7k&s=10",
+            "videoUrl": "https://ia902201.us.archive.org/19/items/stree-2-hindi-2024/Stree%202%20%28Hindi%29%202024.ia.mp4"
+        },
+        {
+            "title": "Stree 2",
+            "description": "Bollywood Movie 1 Horror comedy",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivzz74Cxiltke0mIra4IM4Jp-HkrmAomGW5TS3x-BC5i1wqPiM_25x7k&s=10",
+            "videoUrl": "https://ia902201.us.archive.org/19/items/stree-2-hindi-2024/Stree%202%20%28Hindi%29%202024.ia.mp4"
         }
+        
     ],
     "south": [
         {
