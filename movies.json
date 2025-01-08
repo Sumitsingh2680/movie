@@ -9,10 +9,9 @@
         {
             "title": "Double I Smart",
             "description": "This is Movie 2 Love Action Thriller",
-            "image": "  https://i.ytimg.com/vi/_vFRK1LGWoE/maxresdefault.jpg",
+            "image": "https://i.ytimg.com/vi/_vFRK1LGWoE/maxresdefault.jpg",
             "videoUrl": "https://ia800106.us.archive.org/21/items/double-i-smart-hindi-2024/Double%20iSmart%20%28Hindi%29%202024.ia.mp4"
         },
-
         {
             "title": "Tholi Prema",
             "description": "This is Movie 1 Action and love ",
@@ -22,7 +21,7 @@
         {
             "title": "Movie 2",
             "description": "This is Movie 2 Love Action Thriller",
-            "image": "  https://i.ytimg.com/vi/_vFRK1LGWoE/maxresdefault.jpg",
+            "image": "https://i.ytimg.com/vi/_vFRK1LGWoE/maxresdefault.jpg",
             "videoUrl": "https://ia800106.us.archive.org/21/items/double-i-smart-hindi-2024/Double%20iSmart%20%28Hindi%29%202024.ia.mp4"
         }
     ],
@@ -43,7 +42,7 @@
             "title": "Bade Miya Chotte Miya",
             "description": "Bollywood Movie 3 fighters",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJZu3A_ZLv1DARZOTWYIZKINvlYPzMYna6pWEiVX3x_aD_gFjnu5kxnBkG&s=10",
-            "videoUrl": "  https://ia802208.us.archive.org/10/items/bade-miyan-chote-miyan-hindi-2024/Bade%20Miyan%20Chote%20Miyan%20%28Hindi%29%202024.ia.mp4"
+            "videoUrl": "https://ia802208.us.archive.org/10/items/bade-miyan-chote-miyan-hindi-2024/Bade%20Miyan%20Chote%20Miyan%20%28Hindi%29%202024.ia.mp4"
         },
         {
             "title": "Aavesham",
@@ -51,16 +50,15 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuzONnh9Fxo5XJDHocXGuA3xc3Q_gLckOl3O-fUeT4KwXqAD9Oo1qBCEg&s=10",
             "videoUrl": "https://ia802208.us.archive.org/8/items/aavesham-hindi-2024/Aavesham%20%28Hindi%29%202024.ia.mp4"
         }
-        
     ],
     "south": [
         {
             "title": "Munjya",
             "description": "South Movie 1 horror",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStWbO50nbduK6IjgHvyeH-0jWf87zQ_ICD_W3ur4KE4FPG2AIEIJthfolU&s=10",
-            "videoUrl": "https://archive.org/download/munjya-hindi-2024/Munjya%20%28Hindi%29%202024.mp4  "
+            "videoUrl": "https://archive.org/download/munjya-hindi-2024/Munjya%20%28Hindi%29%202024.mp4"
         },
-          {
+        {
             "title": "pushpa",
             "description": "South Movie 2 action",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk_-mu5u6QfE9thByZqIs7grqS2FRIV_MJAK-Z2QdAzbOhYNIE8pgwnB_O&s=10",
@@ -84,7 +82,6 @@
             "image": "https://m.media-amazon.com/images/S/pv-target-images/149ac783c0e32bfecd62d2d447b5c36d304d5a5afe30db4d701dc93dc8bba5b0.jpg",
             "videoUrl": "https://ia902204.us.archive.org/32/items/k.-g.-f-chapter-1-2018/K.G.F%20Chapter%201%202018.ia.mp4"
         },
-        
         {
             "title": "KGF Chapter 2",
             "description": "South Movie 1 description",
@@ -97,7 +94,6 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCO_QdZztxewUcXkhYzpVrxOiXzyWUeU_M2txGYsMkc3pffrEwOa-diT65&s=10",
             "videoUrl": ""
         }
-        
     ],
     "hollywood": [
         {
@@ -109,7 +105,7 @@
         {
             "title": "Movie 2",
             "description": "This is Movie 2",
-            "image": " https://images.unsplash.com/photo-1542397284385-6010376c5337?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image": "https://images.unsplash.com/photo-1542397284385-6010376c5337?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "videoUrl": "https://m.youtube.com/watch?v=oCTx9ZRLgqk"
         }
     ],
@@ -123,7 +119,7 @@
         {
             "title": "Movie 2",
             "description": "This is Movie 2",
-            "image": " https://images.unsplash.com/photo-1542397284385-6010376c5337?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "image": "https://images.unsplash.com/photo-1542397284385-6010376c5337?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
             "videoUrl": "https://m.youtube.com/watch?v=oCTx9ZRLgqk"
         }
     ]
