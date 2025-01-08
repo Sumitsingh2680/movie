@@ -1,15 +1,28 @@
 {
     "latest": [
         {
-            "title": "Movie 1",
-            "description": "This is Movie 1",
-            "image": "https://images.unsplash.com/photo-1542397284385-6010376c5337?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "title": "Crakk",
+            "description": "This is Movie 1 Action and love ",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsRXK6A71nurCzqXLeeFmA6m2boMjAFBAb0Q&usqp=CAU",
             "videoUrl": "https://ia600605.us.archive.org/32/items/vid-20241220-090914-048/VID_20241220_090914_048.mp4"
         },
         {
             "title": "Movie 2",
-            "description": "This is Movie 2",
-            "image": " https://images.unsplash.com/photo-1542397284385-6010376c5337?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "description": "This is Movie 2 Love Action Thriller",
+            "image": "  https://i.ytimg.com/vi/_vFRK1LGWoE/maxresdefault.jpg",
+            "videoUrl": "https://m.youtube.com/watch?v=oCTx9ZRLgqk"
+        },
+
+        {
+            "title": "Tholi Prema",
+            "description": "This is Movie 1 Action and love ",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzicoD40YsJxl10A3OqAvKypbeYJ973v177DK9vVMwNEO5CXeliO_QwP0&s=10",
+            "videoUrl": "https://ia600605.us.archive.org/32/items/vid-20241220-090914-048/VID_20241220_090914_048.mp4"
+        },
+        {
+            "title": "Movie 2",
+            "description": "This is Movie 2 Love Action Thriller",
+            "image": "  https://i.ytimg.com/vi/_vFRK1LGWoE/maxresdefault.jpg",
             "videoUrl": "https://m.youtube.com/watch?v=oCTx9ZRLgqk"
         }
     ],
