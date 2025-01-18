@@ -55,9 +55,38 @@
             "description": "Bollywood Movie 4 college life",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuzONnh9Fxo5XJDHocXGuA3xc3Q_gLckOl3O-fUeT4KwXqAD9Oo1qBCEg&s=10",
             "videoUrl": "https://ia802208.us.archive.org/8/items/aavesham-hindi-2024/Aavesham%20%28Hindi%29%202024.ia.mp4"
-        }
-    ],
-    "south": [
+        },
+        {
+            "title": "A thursday",
+            "description": "This is Movie 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgzCvPS_gQOoBtxKbQ8q8DjNtd8s2oxPjA-LLEksq-ofIqrterld0SjTEP&s=10",
+            "videoUrl": "https://dn720407.ca.archive.org/0/items/dasvi-2022-hindi-1080p-z-flix-co/01%20-%20Bollywood%20-%202022/A%20Thursday%20%282022%29%20Hindi%201080p_zFlix%20CO.mp4"
+        },
+{
+            "title": "Aaja mexico chaliye",
+            "description": "This is Movie 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI9vYutlttbnhv1I0B8fdWb4ET6-yFvb0Xmg1Q2q9f1KsfhPIbBSAWL1U&s=10",
+            "videoUrl": "https://dn720407.ca.archive.org/0/items/dasvi-2022-hindi-1080p-z-flix-co/01%20-%20Bollywood%20-%202022/Aaja%20Mexico%20Chaliye%20%282022%29%20Punjabi%201080p_zFlix%20CO.mp4"
+        },
+{
+            "title": "Bachhan Pandey",
+            "description": "This is Movie 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN2Q0qKqaJngp-z-w3AiePUiY1urLLgOI-OLNXTc1f9CRQmJ0tML4BX8vM&s=10",
+            "videoUrl": "https://dn720407.ca.archive.org/0/items/dasvi-2022-hindi-1080p-z-flix-co/01%20-%20Bollywood%20-%202022/Bachchhan%20Paandey%20%282022%29%20Hindi%201080p_zFlix%20CO.mp4"
+        },
+{
+            "title": "Badhaai Do",
+            "description": "This is Movie 1",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc1NGRmOGMtNWE4MS00MWQ1LTg5OTctOTQ2ZWNiOWZjYTg3XkEyXkFqcGc@._V1_.jpg",
+            "videoUrl": "https://dn720407.ca.archive.org/0/items/dasvi-2022-hindi-1080p-z-flix-co/01%20-%20Bollywood%20-%202022/Badhaai%20Do%202022%201080p_zFlix%20CO.mp4"
+        },
+{
+            "title": "Dasvi",
+            "description": "This is Movie 1",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIx4v7lHPorv4i6TmVf3cH8MvkcDzklAilZnxeW0CLqOlqLr5DPa0eoZY&s=10",
+            "videoUrl": "https://dn720407.ca.archive.org/0/items/dasvi-2022-hindi-1080p-z-flix-co/01%20-%20Bollywood%20-%202022/Dasvi%20%282022%29%20Hindi%201080p_zFlix%20CO.mp4"
+}
+    ],    "south": [
         {
             "title": "Munjya",
             "description": "South Movie 1 horror",
