@@ -166,6 +166,12 @@
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbWH5iSs6RO7fxjKEF8gE4ysf2RFXMUAgnG9au8mVD7UEcjAWB2s8Ds4E&s=10",
             "videoUrl": "https://dn720407.ca.archive.org/0/items/dasvi-2022-hindi-1080p-z-flix-co/04%20-%20Bollywood%20-%202022/Thar%20%282022%29%20Hindi%201080p_zFlix%20CO.mp4"
         },
+        {
+            "title": "Phir Hera Pheri",
+            "description": "comedy1",
+            "image": "https://i.ytimg.com/vi/f3TmFbQVPn8/maxresdefault.jpg",
+            "videoUrl": "https://dn720403.ca.archive.org/0/items/ahista-ahista-2006-hindi-1080p-z-flix-co/08%20-%20Bollywood%20-%202006/Phir%20Hera%20Pheri%20%282006%29%20Hindi%201080p_%20zFlix%20CO.mp4"
+        },
 {
             "title": "The kashmir files",
             "description": "This is Movie 1",
@@ -246,10 +252,10 @@
     ],
     "webseries": [
         {
-            "title": "Movie 1",
-            "description": "This is Movie 1",
-            "image": "https://images.unsplash.com/photo-1542397284385-6010376c5337?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-            "videoUrl": "https://ia600605.us.archive.org/32/items/vid-20241220-090914-048/VID_20241220_090914_048.mp4"
+            "title": "Phir Hera Pheri",
+            "description": "comedy1",
+            "image": "https://i.ytimg.com/vi/f3TmFbQVPn8/maxresdefault.jpg",
+            "videoUrl": "https://dn720403.ca.archive.org/0/items/ahista-ahista-2006-hindi-1080p-z-flix-co/08%20-%20Bollywood%20-%202006/Phir%20Hera%20Pheri%20%282006%29%20Hindi%201080p_%20zFlix%20CO.mp4"
         },
         {
             "title": "Movie 2",
