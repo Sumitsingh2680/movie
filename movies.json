@@ -262,7 +262,6 @@
         }
     ],
     "devotional": [
-        [
   {
     "title": "Episode 1",
     "description": "This is Episode 1",
@@ -298,9 +297,49 @@
     "description": "This is Episode 6",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "videoUrl": "https://ia601705.us.archive.org/34/items/dli.ramayan.ep.06/ramayan.ep.06.mp4"
+  },
+  {
+    "title": "Episode 7",
+    "description": "This is Episode 7",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "https://ia601701.us.archive.org/26/items/dli.ramayan.ep.07/ramayan.ep.07.mp4"
+  },
+  {
+    "title": "Episode 8",
+    "description": "This is Episode 8",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "https://ia601802.us.archive.org/8/items/dli.ramayan.ep.08/ramayan.ep.08.mp4"
+  },
+  {
+    "title": "Episode 9",
+    "description": "This is Episode 9",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "https://ia801707.us.archive.org/23/items/dli.ramayan.ep.09/ramayan.ep.09.mp4"
+  },
+  {
+    "title": "Episode 10",
+    "description": "This is Episode 10",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "https://ia801700.us.archive.org/33/items/dli.ramayan.ep.10/ramayan.ep.10.mp4"
+  },
+  {
+    "title": "Episode 11",
+    "description": "This is Episode 11",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "https://ia801704.us.archive.org/14/items/dli.ramayan.ep.11/ramayan.ep.11.mp4"
+  },
+  {
+    "title": "Episode 12",
+    "description": "This is Episode 12",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "https://ia801804.us.archive.org/1/items/dli.ramayan.ep.12/ramayan.ep.12.mp4"
+  },
+  {
+    "title": "Episode 13",
+    "description": "This is Episode 13",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-TrLAEBbz1ChizI29nrbo2_tph8xQgy-gMZuTgkD4QP90oXk5hcAcY-72&s=108MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "videoUrl": "https://ia801704.us.archive.org/0/items/dli.ramayan.ep.13/ramayan.ep.13.mp4"
   }
-]
-
     ],
     "webseries": [
         {
